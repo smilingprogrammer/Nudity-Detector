@@ -43,4 +43,7 @@ dependencies {
 
     implementation platform('com.google.firebase:firebase-bom:29.1.0')
     implementation 'com.google.firebase:firebase-analytics'
+
+    // Use this dependency to bundle the model with your app
+    implementation 'com.google.mlkit:image-labeling:17.0.7'
 }
