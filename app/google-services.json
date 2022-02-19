@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "544047368999",
+    "project_id": "nudity-detector",
+    "storage_bucket": "nudity-detector.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544047368999:android:e93e279e35902d54aef702",
+        "android_client_info": {
+          "package_name": "com.example.nuditydetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544047368999-bs3ac2hrklgrsaoh3k7o463773kq3k0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMAJiZisovjuA-moYggqlFQuPNpfHa-FI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544047368999-bs3ac2hrklgrsaoh3k7o463773kq3k0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
